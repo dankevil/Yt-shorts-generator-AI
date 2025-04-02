@@ -1,0 +1,26 @@
+{
+  "total_videos": 1,
+  "total_duration": 10,
+  "by_theme": {
+    "modern": 1
+  },
+  "by_style": {
+    "entertaining": 1
+  },
+  "by_language": {
+    "en": 1
+  },
+  "history": [
+    {
+      "id": "20250306_143101",
+      "title": "You Won't Believe These Facts About A Funny Joke!",
+      "idea": "a funny joke",
+      "style": "entertaining",
+      "theme": "modern",
+      "language": "en",
+      "duration": 10,
+      "file_path": "output/short_20250306_143101_final.mp4",
+      "timestamp": "2025-03-06 14:31:33"
+    }
+  ]
+}
